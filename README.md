@@ -1,3 +1,5 @@
 # BBNN Python Code
 
-Python script which runs BBNN
+Cartpole.py runs BBNN with custom cartpole envrionment, draws block diagrams and plots fitness at end of each epoch
+
+

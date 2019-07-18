@@ -15,7 +15,6 @@
         Cartpole Basic
           ---- The cartpole environment trained with a basic feed forward neural network. This should achieve relative success         on this environment provided the parameters are sufficiently tuned.
 
-
-  
-
+Continuous Control --  A collection of different machine learning/neural network algortihms more suited for continuous control, i.e. for the roboschool hopper env.
+          
 

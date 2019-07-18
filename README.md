@@ -15,7 +15,7 @@ __BasicNN__ -- A collection of environments trained with a simple tflearn neural
  ------Cartpole Basic
           ---- The cartpole environment trained with a basic feed forward neural network. This should achieve relative success         on this environment provided the parameters are sufficiently tuned.
 
-__Continuous Control__ --  A collection of different machine learning/neural network algortihms more suited for continuous control, i.e. for the roboschool hopper env.
+__Continuous_Control__ --  A collection of different machine learning/neural network algortihms more suited for continuous control, i.e. for the roboschool hopper env.
 
    -----DDPG--- A folder with an implementation of the Deep Deterministic Policy Gradient (DDPG) Algorithm, originally                 created by Ignacio Carlucho and tested on the continuous mountain car env. I have added code for running the same             algorithm on the hopper. Over a long period of testing this algorithm is able to train the hopper to jump rather               quickly https://github.com/IgnacioCarlucho/DDPG_MountainCar.git  
                 --- for the roboschool hopper implementation, run hopperDDPG.py while in the DDPG folder

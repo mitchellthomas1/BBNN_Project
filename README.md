@@ -10,7 +10,7 @@
 BasicNN -- A collection of environments trained with a simple tflearn neural network, to varying levels of success
   
          HopperBasic.py
-            ---- The hopper environment trained with a simple feed forward tflearn neural network. It doesn't really work, but        it illustrates the limits of the standard neural network when it comes to continuous control. The same network is able        to train the cartpole environment with no problem.
+            ---- The hopper environment trained with a simple feed forward tflearn neural network. It doesn't really work, but        it \n illustrates the limits of the standard neural network when it comes to continuous control. The same network is able        to train the cartpole environment with no problem.
 
         Cartpole Basic
           ---- The cartpole environment trained with a basic feed forward neural network. This should achieve relative success         on this environment provided the parameters are sufficiently tuned.
